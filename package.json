@@ -1,0 +1,28 @@
+{
+  "name": "tsthenify",
+  "version": "0.0.1",
+  "description": "Generates TypeScript Definition files for modules with thenify has been applied to",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasHickman/TSThenify.git"
+  },
+  "dependencies": {
+    "typescript": "^1.7.5"
+  },
+  "test": "",
+  "keywords": [
+    "typescript",
+    "thenify"
+  ],
+  "author": "Thomas Hickman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasHickman/TSThenify/issues"
+  },
+  "homepage": "https://github.com/ThomasHickman/TSThenify#readme",
+  "private": true
+}
